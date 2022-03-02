@@ -1,0 +1,235 @@
+@media(max-width:1330px) {
+    .header-left{
+            width: 30%;
+        }
+        .header-right{
+            width: 60%;
+        }
+}
+
+
+
+
+@media(max-width:992px) {
+    .header-left{
+        width: 100% !important;
+        text-align: center;
+        margin-left: 0;
+    }
+    .header-left ul{
+        margin-right: 0;
+    }
+    .header-right {
+        text-align: center;
+        width: 100% !important;
+    }
+    .bannaer-section{
+        padding: 100px;
+    }
+    
+    .bannaer-section p {
+        margin-bottom: 30px;
+        margin-top: 15px;
+
+      }
+      .bannaer-section h1 {
+        font-size: 24px;
+       
+       }
+       .service-header p{
+           margin-bottom: 20px;
+       }
+       .box-1{
+           width: 48%;
+           padding: 15px;
+       }
+       .about-left {
+        width: 100%;
+       
+    }
+    .about-left  img{
+        width: 100%;
+    }
+    .about-right {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .header-right ul li a {
+        font-size: 18px;
+    }
+      
+}
+
+    
+
+    
+
+      
+    
+    @media(max-width:776px) {
+        .header-right ul {
+            display: none;
+        }
+        .offcanvas-end {
+            height: 300px;
+            width: 230px;
+           
+        }
+        .rcp-menu {
+            color: #cac3c3;
+            background-color: transparent;
+            border-color: none !important;
+        }
+        .rcp-menu .btn {
+            color: #fff;
+            cursor: pointer;
+           
+        }
+       
+        .rcp-menu {
+           
+            position: absolute;
+            top: 8px;
+            right: 20px;
+            display: block;
+        }
+      
+        .rcp-ul{
+            display: block !important;
+        }
+        .header-left {
+            width: 40% !important;
+           margin-left: 10px;
+           box-sizing: border-box;
+           
+        }
+        .header-right {
+           text-align: right;
+            width: 50% !important;
+        }
+       
+        .box-1 p{
+            font-size: 14px;
+        }
+        .box-1{
+            width: 100%;
+        }
+        .about-header p {
+            margin: 10px 0;
+        }
+        .header-right ul li a {
+            font-size: 14px;
+        }
+        .header-right ul {
+           
+            margin-right: 0;
+        }
+ 
+    }
+    @media(max-width:600px){
+        .header-left a h1 {
+            font-size: 22px;
+        }
+        .header-right {
+            width: 30%;
+            text-align: right;
+            margin-right: 20px;
+        }
+        .header-left {
+            width: 35% !important;
+            margin-left: 10px;
+            box-sizing: border-box;
+        }
+        .bannaer-section {
+            padding: 70px;
+        }
+
+    }
+
+
+    @media(max-width:566px){
+        .header-left a h1{
+            font-size: 18px;
+        }
+        .rcp-menu  {
+           text-align: right;
+        }
+        .bannaer-section a {
+            text-decoration: none;
+            padding: 5px 10px;
+            font-size: 14px;
+            margin-top: -4px;
+            display: inline-block;
+        }
+       
+        
+       
+        .about-header p{
+            font-size: 14px;
+        }
+        .about-right p {
+           
+            font-size: 14px;
+        }
+        .contact-buttom .contact-1 {
+            text-align: center;
+            width: 100%;
+            margin-bottom: 20px;
+
+        }
+        .footer-section ul li a {
+            padding: 10px;
+            
+        }
+        .footer-bottom p {
+           
+            font-size: 12px;
+        }
+
+
+         
+          
+.header-right ul li a{
+    font-size: 20px;
+}
+    
+        
+    
+    .header-right {
+        width: 100%;
+        text-align: center;
+      }
+}
+
+@media (mex-width:450px) {
+    .bannaer-section h1 {
+        font-size: 20px;
+    }
+    .bannaer-section p {
+        font-size: 14px;
+    }
+    .header-left a h1 {
+        font-size: 16px;
+    }
+    .header-left {
+        width: 39%;
+       
+    }
+  
+}
+@media (mex-width:400px) {
+    .header-left a h1 {
+        font-size: 14px;
+    }
+}
+@media(mex-width:350px) {
+    .bannaer-section h1 {
+        font-size: 22px;
+    }
+    .bannaer-section p {
+        font-size: 14px;
+    }
+    .header-left a h1 {
+        font-size: 14px;
+    }
+}
